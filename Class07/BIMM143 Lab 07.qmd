@@ -1,8 +1,7 @@
 ---
 title: "Class07: Machine Learning I"
 author: "Patric Young"
-format: pdf
-editor: visual
+format: gfm
 ---
 
 ## 
